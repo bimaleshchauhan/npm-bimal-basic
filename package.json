@@ -1,5 +1,5 @@
 {
-  "name": "npm-basic",
+  "name": "@bimaleshchauhan/npm-basic",
   "version": "1.0.0",
   "description": "This package will wrap any string you give it with the poop emoji ",
   "main": "index.js",
