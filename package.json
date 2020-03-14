@@ -1,7 +1,7 @@
 {
   "name": "npm-basic",
   "version": "1.0.0",
-  "description": "",
+  "description": "This package will wrap any string you give it with the poop emoji ",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -11,5 +11,6 @@
     "npm"
   ],
   "author": "bimal",
-  "license": "MIT"
+  "license": "MIT",
+  "homepage": "https://github.com/bimaleshchauhan/npm-basic"
 }
