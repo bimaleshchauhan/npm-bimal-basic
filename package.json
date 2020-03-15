@@ -1,5 +1,5 @@
 {
-  "name": "npm-bimal1",
+  "name": "npm-bimal-basic",
   "version": "1.0.0",
   "description": "This package will wrap any string you give it with the poop emoji ",
   "main": "index.js",
@@ -12,6 +12,6 @@
   ],
   "author": "bimal",
   "license": "MIT",
-  "homepage": "https://github.com/bimaleshchauhan/npm-basic",
+  "homepage": ""
   
 }
